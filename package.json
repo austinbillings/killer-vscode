@@ -1,0 +1,20 @@
+{
+  "name": "killer-theme",
+  "displayName": "Killer Dark",
+  "description": "A warm dark theme with coral reds, amber golds, and teal accents",
+  "version": "1.0.0",
+  "publisher": "killer",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Killer Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/killer-dark.json"
+      }
+    ]
+  }
+}
