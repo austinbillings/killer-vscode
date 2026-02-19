@@ -4,6 +4,10 @@
   "description": "A warm dark theme with coral reds, amber golds, and teal accents",
   "version": "1.0.0",
   "publisher": "killer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/austinbillings/killer-vscode"
+  },
   "engines": {
     "vscode": "^1.60.0"
   },
