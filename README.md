@@ -1,4 +1,4 @@
-# Killer Dark
+# Killer Dark for VSCode
 
 A dark candy jungle theme for VS Code / Cursor with coral reds, amber golds, and teal accents. Successor to the Killer themes for Atom, Nova, and Firefox.
 
