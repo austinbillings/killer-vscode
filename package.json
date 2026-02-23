@@ -2,7 +2,7 @@
   "name": "killer-theme",
   "displayName": "Killer Dark",
   "description": "A warm dark theme with coral reds, amber golds, and teal accents",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "AustinBillings",
   "repository": {
     "type": "git",
@@ -11,7 +11,9 @@
   "engines": {
     "vscode": "^1.60.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
