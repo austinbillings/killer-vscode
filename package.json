@@ -4,6 +4,21 @@
   "description": "A warm dark theme with coral reds, amber golds, and teal accents",
   "version": "1.0.1",
   "publisher": "AustinBillings",
+  "icon": "./icon.png",
+  "pricing": "Free",
+  "license": "./LICENSE",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "killer theme",
+    "killer dark theme",
+    "killer dark",
+    "killer",
+    "dark red",
+    "coral red",
+    "teal",
+    "gold"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/austinbillings/killer-vscode"
