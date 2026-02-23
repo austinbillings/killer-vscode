@@ -17,7 +17,8 @@
       {
         "label": "Killer Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/killer-dark.json"
+        "path": "./themes/killer-dark.json",
+        "icon": "./icon.png"
       }
     ]
   }

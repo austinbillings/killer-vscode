@@ -11,9 +11,9 @@ A dark candy jungle theme for VS Code / Cursor with coral reds, amber golds, and
 3. Open the Command Palette (`Cmd+Shift+P`) and select **Preferences: Color Theme**
 4. Choose **Killer Dark**
 
-## Palette
+## Base palette
 
-| Role       | Color                                                            |
+| *       | Hex                                                            |
 | ---------- | ---------------------------------------------------------------- |
 | Background | `#131415`                                                        |
 | Foreground | `#f6f4f4`                                                        |
